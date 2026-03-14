@@ -1,6 +1,6 @@
 ***Modern Data Warehouse & Analytics Project***
 
-#### Welcome to my Modern Data Warehouse and Analytics Project. 🚀
+### Welcome to my Modern Data Warehouse and Analytics Project. 🚀
 
 Hello everyone!
 My name is Yan Hein Aung and this project is one of my portfolio projects for junior data analyst / junior data engineer
@@ -8,27 +8,27 @@ This project demonstrates my ability to design and implement a complete data war
 The goal of this project is to showcase practical skills in data engineering, data modeling, and analytics, following industry best practices used in modern data platforms.
 
 --------------------------------------------------------------------------------------------------------------------------------
-#### Data Architecture 🏗️🏗️
+## Data Architecture 🏗️🏗️
 
 This project implements the Medallion Architecture, which organizes data into three logical layers: Bronze, Silver, and Gold.
 
-# Bronze Layer – Raw Data Ingestion 
+### Bronze Layer – Raw Data Ingestion 
 
 The Bronze layer stores the original source data without modification.
 Data from multiple systems is ingested directly from CSV files into a SQL Server database to preserve the raw state for traceability.
 
-# Silver Layer – Data Processing
+### Silver Layer – Data Processing
 
 In the Silver layer, the data goes through cleaning, standardization, and transformation processes.
 This stage improves data quality and prepares the dataset for reliable analysis.
 
-# Gold Layer – Business Analytics
+### Gold Layer – Business Analytics
 
 The Gold layer contains business-ready datasets structured using a star schema.
 This layer is optimized for analytical queries, reporting, and business intelligence use cases.
 
 -------------------------------------------------------------------------------------------------------------------------
-### Project Overview
+## Project Overview
 
 In this project, I designed and implemented an end-to-end data warehouse pipeline that includes the following components:
 
@@ -41,7 +41,7 @@ In this project, I designed and implemented an end-to-end data warehouse pipelin
 - Analytics and Reporting
 - Developing SQL-based analytical queries to extract meaningful insights and support data-driven decisions.
 
-# Skills Demonstrated in This Project
+## Skills Demonstrated in This Project
 
 This project highlights practical experience in several key areas:
 
@@ -54,7 +54,7 @@ This project highlights practical experience in several key areas:
 
 ------------------------------------------------------------------------------------------------------------------------
 
-## 🛡️ License This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+### 🛡️ License This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
 
