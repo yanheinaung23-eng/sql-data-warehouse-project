@@ -3,7 +3,7 @@
 ### Welcome to my Modern Data Warehouse and Analytics Project. 🚀
 
 Hello everyone!
-My name is Yan Hein Aung and this project is one of my portfolio projects for junior data analyst / junior data engineer
+My name is Yan Hein Aung and this project is one of my portfolio projects for junior data analyst / junior data engineer.
 This project demonstrates my ability to design and implement a complete data warehousing solution—from ingesting raw data to producing analytical insights for business decision-making.
 The goal of this project is to showcase practical skills in data engineering, data modeling, and analytics, following industry best practices used in modern data platforms.
 
