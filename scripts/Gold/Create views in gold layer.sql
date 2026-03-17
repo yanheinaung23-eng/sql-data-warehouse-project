@@ -71,8 +71,8 @@ SELECT
 	WHERE cp.prd_end_dt IS NULL -- Filtered out the current on-going products
 GO
 
-	---------------------------------------------------------------------------------
-	-- Create the fact_sales view in the gold schema
+---------------------------------------------------------------------------------
+-- Create the fact_sales view in the gold schema
 
 IF OBJECT_ID('gold.fact_sales', 'V') IS NOT NULL
 	DROP VIEW gold.fact_sales;
