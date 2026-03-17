@@ -1,5 +1,3 @@
-***Modern Data Warehouse & Analytics Project***
-
 ### Welcome to my Modern Data Warehouse and Analytics Project. 🚀
 
 Hello everyone!
