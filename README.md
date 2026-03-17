@@ -29,6 +29,10 @@ The Gold layer contains business-ready datasets structured using a star schema.
 This layer is optimized for analytical queries, reporting, and business intelligence use cases.
 
 -------------------------------------------------------------------------------------------------------------------------
+## Data Flow Diagram
+![image alt](https://github.com/yanheinaung23-eng/sql-data-warehouse-project/blob/2c83a25c5a5f7bd0eec37d44e2b22928d24e2c50/documents/Data%20flow%20Diagram.png)
+
+-------------------------------------------------------------------------------------------------------------------------
 ## Project Overview
 
 In this project, I designed and implemented an end-to-end data warehouse pipeline that includes the following components:
