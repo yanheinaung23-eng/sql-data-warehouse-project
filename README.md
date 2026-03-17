@@ -9,6 +9,7 @@ The goal of this project is to showcase practical skills in data engineering, da
 
 --------------------------------------------------------------------------------------------------------------------------------
 ## Data Architecture 🏗️🏗️
+![image alt](https://github.com/yanheinaung23-eng/sql-data-warehouse-project/blob/73d511ee219459b56e110260f9172e8b29abc89d/documents/DWH%20plan.png)
 
 This project implements the Medallion Architecture, which organizes data into three logical layers: Bronze, Silver, and Gold.
 
